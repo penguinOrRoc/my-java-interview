@@ -1,4 +1,4 @@
-package com.penguin.java;
+package com.penguin.java.juc;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;

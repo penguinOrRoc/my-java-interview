@@ -1,4 +1,4 @@
-package com.penguin.java;
+package com.penguin.java.jvm;
 
 public class StringPool {
     public static void main(String[] args){

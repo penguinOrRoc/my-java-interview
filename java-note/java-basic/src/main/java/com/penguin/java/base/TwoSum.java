@@ -1,4 +1,4 @@
-package com.penguin.java;
+package com.penguin.java.base;
 
 import java.util.HashMap;
 import java.util.Map;
