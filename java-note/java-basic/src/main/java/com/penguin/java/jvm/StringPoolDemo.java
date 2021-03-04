@@ -1,6 +1,6 @@
 package com.penguin.java.jvm;
 
-public class StringPool {
+public class StringPoolDemo {
     public static void main(String[] args){
         String str01 = new StringBuilder("1.8.0").append("_281").toString();
         System.out.println(str01);

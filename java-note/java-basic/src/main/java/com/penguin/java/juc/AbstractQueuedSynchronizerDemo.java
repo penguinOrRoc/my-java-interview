@@ -1,9 +1,11 @@
 package com.penguin.java.juc;
 
 import java.util.concurrent.TimeUnit;
+import java.util.concurrent.locks.AbstractQueuedSynchronizer;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class AQS {
+public class AbstractQueuedSynchronizerDemo {
+
     public static void main(String[] args){
         //默认非公平锁
         ReentrantLock reentrantLock = new ReentrantLock();
